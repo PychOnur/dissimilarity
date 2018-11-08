@@ -1,5 +1,3 @@
-setwd("//soliscom.uu.nl/uu/Users/Sahin010/My Documents/Research/Diversity and Inclusion/Frontiers/GU/Data")
-
 #### The packages we need ####
 
 library(haven)
